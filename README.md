@@ -17,7 +17,7 @@ The dataset used in this project is the *Pizza Sales Dataset* from Kaggle.
 - During which time of day do sales peak?
 
 ### Key Insights:
-- Total Revenue: 817.86K
+- Total Revenue: 817K
 - Total Orders: 21K
 - Total Pizza Sold (Quantity): 50K
 - Average Order Value (AOV): 38.31
